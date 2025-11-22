@@ -14,7 +14,7 @@ Built using **HTML, CSS, and JavaScript**, this mini-project is perfect for lear
 ## 🔗 Live Demo
 
 
-👉 **Live Project:** []()
+👉 **Live Project:** [https://dileep-kumawat.github.io/Fetch-Random-GIF-Images-using-html-css-and-js/](https://dileep-kumawat.github.io/Fetch-Random-GIF-Images-using-html-css-and-js/)
 
 ---
 
@@ -94,7 +94,7 @@ function showImg(url) {
 ## 📦 Installation (Optional with local server)
 
 ```bash
-git clone 
+git clone https://github.com/Dileep-kumawat/Fetch-Random-GIF-Images-using-html-css-and-js.git
 cd your-repo
 ```
 
